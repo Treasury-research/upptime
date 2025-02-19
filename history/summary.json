@@ -4,10 +4,10 @@
     "url": "https://www.knexus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.knexus.xyz.ico",
     "slug": "knexus-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 405,
@@ -16,6 +16,7 @@
     "timeMonth": 396,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2025-02-19": 1,
       "2025-02-01": 15,
       "2024-05-18": 9,
       "2024-05-07": 11
@@ -38,7 +39,7 @@
     "timeMonth": 213,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-02-19": 40,
+      "2025-02-19": 837,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
