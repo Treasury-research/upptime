@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.knexus.xyz.ico",
     "slug": "knexus-xyz",
     "status": "down",
-    "uptime": "99.22%",
+    "uptime": "99.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.73%",
-    "uptimeMonth": "88.63%",
-    "uptimeYear": "99.05%",
+    "uptimeWeek": "36.46%",
+    "uptimeMonth": "85.34%",
+    "uptimeYear": "98.77%",
     "time": 405,
     "timeDay": 0,
-    "timeWeek": 273,
-    "timeMonth": 404,
+    "timeWeek": 313,
+    "timeMonth": 401,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-02-23": 43,
+      "2025-02-24": 41,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -39,11 +40,12 @@
     "uptimeYear": "0.00%",
     "time": 209,
     "timeDay": 0,
-    "timeWeek": 150,
+    "timeWeek": 167,
     "timeMonth": 218,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-02-23": 43,
+      "2025-02-24": 41,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -406,8 +408,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   }
 ]
